@@ -1,0 +1,6 @@
+entered command mode
+q 26 3
+u 26 4
+i 26 5
+t 26 6
+exit 26 7
